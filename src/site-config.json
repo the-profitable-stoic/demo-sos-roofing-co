@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "SOS Roofing Co",
+    "phone": "+18132952794",
+    "category": "roofing contractor",
+    "city": "Tampa",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tampa's Trusted Roofing Experts",
+      "heroSubline": "Protecting your home with quality roofing solutions. Serving Tampa, St. Pete, and beyond with pride.",
+      "aboutTitle": "Integrity. Quality. Tampa Tough.",
+      "aboutText": [
+        "SOS Roofing Co was founded on a simple principle: provide homeowners in Tampa Bay with roofing services they can trust, no matter the storm. We've seen firsthand the damage our harsh Florida weather can inflict, from hurricane-force winds to relentless sun and rain. That's why we're committed to delivering durable, reliable roofs built to withstand everything Tampa throws our way.",
+        "We're not just roofers; we're problem solvers. We take a comprehensive approach to every project, starting with a thorough inspection to identify potential issues and recommending the best solutions for your specific needs and budget. Our team uses only the highest-quality materials and proven techniques to ensure a long-lasting, weather-resistant roof.",
+        "SOS Roofing Co is proud to be a part of the Tampa community. We believe in giving back, supporting local initiatives, and treating every customer like a neighbor. When you choose us, you're not just getting a new roof; you're getting a partner dedicated to protecting your home for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our skilled team delivers exceptional workmanship on every project, ensuring lasting quality and performance."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only top-grade materials designed to withstand Florida's harsh weather, providing superior protection and longevity."
+        },
+        {
+          "title": "Comprehensive Solutions",
+          "description": "From minor repairs to complete roof replacements, we offer a full range of roofing services to meet your needs."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of Tampa Bay roofing and provide tailored solutions for your home."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Inspection",
+      "ctaSubline": "Protect your home with a strong, reliable roof. Contact us today for a free, no-obligation inspection and estimate."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for lasting protection and enhanced curb appeal.",
+        "description": "When your roof reaches the end of its lifespan or sustains significant damage, a complete roof replacement is the best solution. At SOS Roofing Co, we handle every aspect of the roof replacement process, from removing your old roof to installing a brand-new, durable roofing system. We start with a detailed inspection to assess the condition of your existing roof and identify any underlying issues, such as wood rot or structural damage. \n\nWe offer a wide variety of roofing materials to choose from, including asphalt shingles, tile, metal, and flat roofing options. Our team will help you select the best material for your home's style, budget, and performance requirements. We then carefully remove your old roof, repair any damaged decking, and install a waterproof underlayment to protect your home from moisture. \n\nFinally, we install your new roofing material with precision and attention to detail, ensuring a weathertight and aesthetically pleasing finish. We also handle all necessary permits and inspections to ensure your new roof meets local building codes. With a roof replacement from SOS Roofing Co, you can have peace of mind knowing your home is protected by a high-quality, long-lasting roofing system.",
+        "process": [
+          "Step 1: Thorough inspection and assessment of your existing roof.",
+          "Step 2: Material selection and customized roofing solution.",
+          "Step 3: Safe removal of your old roof and disposal.",
+          "Step 4: Expert installation of your new roof with quality assurance."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Long-lasting protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration depends on the size and complexity of your roof, but most residential replacements take 3-5 days."
+          },
+          {
+            "question": "Do I need to be home during the roof replacement process?",
+            "answer": "While not required, being available to answer questions can be helpful. We'll keep you informed throughout the project."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of materials, including asphalt shingles, tile, metal, and flat roofing options to suit your style and budget."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast and reliable roof repair services to address leaks, damage, and wear.",
+        "description": "From minor leaks to storm damage, SOS Roofing Co provides prompt and effective roof repair services to protect your Tampa home. Ignoring even small roof problems can lead to more extensive and costly damage down the road. We offer comprehensive roof repair services, including leak detection, shingle replacement, flashing repair, and storm damage restoration. \n\nOur experienced technicians will thoroughly inspect your roof to identify the source of the problem and recommend the best repair solution. We use high-quality materials and proven techniques to ensure a lasting repair that blends seamlessly with your existing roof. Whether you have a few missing shingles, a leaky skylight, or damage from a recent hurricane, we can handle it all. \n\nWe understand the urgency of roof repairs, especially during Florida's rainy season. That's why we offer fast response times and emergency repair services to minimize water damage and protect your home. Don't let a small roof problem turn into a major headache. Contact SOS Roofing Co for reliable and affordable roof repair services.",
+        "process": [
+          "Step 1: Detailed inspection to identify the source of the problem.",
+          "Step 2: Clear explanation of the repair options and costs.",
+          "Step 3: Prompt and efficient repair using quality materials.",
+          "Step 4: Final inspection to ensure the repair is effective."
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Extends the life of your roof",
+          "Restores the integrity of your roofing system",
+          "Cost-effective solution for minor roof issues"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs include water stains on your ceiling, missing or damaged shingles, and visible leaks. A professional inspection can confirm the need for repair."
+          },
+          {
+            "question": "How long will the roof repair take?",
+            "answer": "Most repairs can be completed in a single day, depending on the extent of the damage and the complexity of the repair."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services to address urgent issues and minimize damage to your home."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Thorough roof inspections to identify potential problems before they become costly.",
+        "description": "Protect your investment with a professional roof inspection from SOS Roofing Co. Regular roof inspections are essential for identifying potential problems early on, preventing costly repairs and extending the life of your roof. Our certified inspectors will thoroughly examine your roof, looking for signs of damage, wear, and deterioration. \n\nWe'll assess the condition of your shingles, flashing, gutters, and other roofing components, providing you with a detailed report of our findings. We'll also identify any potential issues, such as leaks, wood rot, or structural damage, and recommend the best course of action. Our roof inspections are ideal for homeowners, real estate agents, and prospective home buyers. \n\nWhether you're preparing to sell your home, buying a new property, or simply want to ensure the health of your roof, a roof inspection from SOS Roofing Co can provide valuable peace of mind. We use advanced technology, including drone inspections, to access hard-to-reach areas and provide a comprehensive assessment of your roof's condition. Schedule your roof inspection today and protect your home from costly surprises.",
+        "process": [
+          "Step 1: Schedule a convenient appointment for your roof inspection.",
+          "Step 2: Our certified inspector will conduct a thorough examination of your roof.",
+          "Step 3: Receive a detailed report with photos and recommendations.",
+          "Step 4: Discuss any necessary repairs or maintenance with our team."
+        ],
+        "benefits": [
+          "Identifies potential problems early",
+          "Prevents costly repairs",
+          "Extends the life of your roof",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, or after any major storm or weather event."
+          },
+          {
+            "question": "What is included in a roof inspection report?",
+            "answer": "Our reports include a detailed assessment of your roof's condition, photos of any damage, and recommendations for repairs or maintenance."
+          },
+          {
+            "question": "Can a roof inspection help me negotiate a better price when buying a home?",
+            "answer": "Yes, a roof inspection can reveal potential problems that may need to be addressed, giving you leverage to negotiate a lower price or request repairs from the seller."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Comprehensive gutter services, including installation, repair, and cleaning.",
+        "description": "Protect your home from water damage with our comprehensive gutter services. Gutters play a crucial role in diverting rainwater away from your foundation, preventing erosion, and protecting your landscaping. SOS Roofing Co offers a full range of gutter services, including installation, repair, and cleaning. \n\nWe install seamless aluminum gutters, which are custom-fit to your home and offer superior performance and durability. We also repair existing gutters, addressing issues such as leaks, clogs, and damage. Our team can clean your gutters to remove leaves, debris, and other obstructions, ensuring they function properly and prevent water damage. \n\nClogged gutters can lead to water damage to your roof, siding, and foundation. Regular gutter cleaning is essential for maintaining the health of your home. We offer affordable gutter cleaning services to keep your gutters flowing freely and protect your property from water damage. Contact SOS Roofing Co for all your gutter needs.",
+        "process": [
+          "Step 1: Assessment of gutter needs and damage.",
+          "Step 2: Professional cleaning and removal of debris.",
+          "Step 3: Precise repairs or installation of new gutters.",
+          "Step 4: Final inspection for optimal performance."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your foundation",
+          "Extends the life of your roof",
+          "Enhances your home's curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, typically in the spring and fall."
+          },
+          {
+            "question": "What are the benefits of seamless gutters?",
+            "answer": "Seamless gutters are less likely to leak and require less maintenance than traditional gutters."
+          },
+          {
+            "question": "Can you install gutter guards to prevent clogs?",
+            "answer": "Yes, we offer a variety of gutter guard options to prevent leaves and debris from clogging your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roofing",
+        "name": "Emergency Roofing Services",
+        "shortDescription": "24/7 emergency roofing services for immediate protection after storms or accidents.",
+        "description": "When disaster strikes, you need a roofing contractor you can rely on. SOS Roofing Co offers 24/7 emergency roofing services to provide immediate protection for your home after storms, accidents, or other unexpected events. Our team is available around the clock to respond to your emergency roofing needs. \n\nWe'll quickly assess the damage to your roof and provide temporary repairs to prevent further water intrusion. We can tarp your roof, repair leaks, and secure damaged areas to protect your home from the elements. We also work with your insurance company to file claims and ensure you receive the coverage you deserve. \n\nDon't wait until it's too late. If you experience a roofing emergency, contact SOS Roofing Co for fast and reliable service. We're here to help you protect your home and family when you need us most. We understand the stress and anxiety that come with a roofing emergency, and we'll work quickly and efficiently to restore your peace of mind.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: Rapid assessment of the damage and temporary repairs.",
+          "Step 3: Secure tarping to prevent further water intrusion.",
+          "Step 4: Assistance with insurance claims and permanent repairs."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Temporary repairs to prevent further damage",
+          "Assistance with insurance claims"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency includes any situation that poses an immediate threat to your home, such as a major leak, storm damage, or structural collapse."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls within 1-2 hours, depending on our current workload and your location."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work with all major insurance companies and can assist you with filing your claim."
+          }
+        ]
+      },
+      {
+        "slug": "flat-roofing",
+        "name": "Flat Roofing Services",
+        "shortDescription": "Expert flat roofing solutions, including installation, repair, and maintenance.",
+        "description": "SOS Roofing Co specializes in flat roofing solutions for commercial and residential properties in Tampa. Flat roofs require specialized knowledge and expertise to ensure proper installation and maintenance. We offer a full range of flat roofing services, including installation, repair, and maintenance. \n\nWe work with a variety of flat roofing materials, including TPO, PVC, and modified bitumen. Our team will help you select the best material for your building's needs and budget. We install flat roofs with precision and attention to detail, ensuring a watertight and long-lasting roofing system. \n\nWe also repair existing flat roofs, addressing issues such as leaks, ponding water, and membrane damage. Our maintenance services include cleaning, inspections, and preventative repairs to extend the life of your flat roof. Whether you need a new flat roof installed or an existing one repaired, SOS Roofing Co has the expertise and experience to get the job done right.",
+        "process": [
+          "Step 1: Thorough assessment of flat roof needs.",
+          "Step 2: Material selection and customized solutions.",
+          "Step 3: Professional installation or repairs.",
+          "Step 4: Ongoing maintenance and support."
+        ],
+        "benefits": [
+          "Expert installation and repair",
+          "Durable and long-lasting materials",
+          "Protection from leaks and water damage",
+          "Increased energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of a flat roof?",
+            "answer": "Flat roofs are cost-effective, energy-efficient, and provide a usable outdoor space."
+          },
+          {
+            "question": "What types of flat roofing materials do you offer?",
+            "answer": "We offer TPO, PVC, and modified bitumen roofing systems."
+          },
+          {
+            "question": "How long does a flat roof typically last?",
+            "answer": "With proper maintenance, a flat roof can last 20-30 years."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Petersburg",
+        "slug": "st-petersburg-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is proud to provide roofing services to the residents of St. Petersburg, Florida. Known for its beautiful waterfront and vibrant arts scene, St. Petersburg presents unique roofing challenges due to its older housing stock, particularly the charming Florida cottage homes built in the 1920s-1950s. These homes often require specialized roofing techniques to maintain their historical integrity and protect them from the harsh Florida climate. \n\nOur experienced team understands the specific needs of St. Petersburg homeowners. We offer a full range of roofing services, from repairs and maintenance to complete roof replacements. We use only the highest quality materials and employ skilled craftsmen to ensure your roof is durable, weather-resistant, and aesthetically pleasing. We are dedicated to preserving the unique character of St. Petersburg's neighborhoods while providing reliable roofing solutions.",
+        "localContext": "St. Petersburg's architecture is characterized by its historic 1920s-50s Florida cottage homes, which require careful attention to detail when it comes to roofing. The hot, humid summers necessitate durable and well-ventilated roofing systems.",
+        "nearbyAreas": [
+          "Tampa",
+          "Clearwater",
+          "Pinellas Park"
+        ]
+      },
+      {
+        "city": "Clearwater",
+        "slug": "clearwater-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is dedicated to serving the roofing needs of Clearwater, Florida, a city known for its stunning beaches and family-friendly atmosphere. Clearwater's housing landscape features many ranch-style homes built in the 1960s and 70s. These homes often require roof maintenance and upgrades to withstand the intense Florida sun and hurricane season.\n\nWe offer a comprehensive range of roofing services tailored to the specific needs of Clearwater residents. Whether you need a minor repair, a complete roof replacement, or routine maintenance, our team of experienced professionals is here to help. We prioritize quality workmanship and use only the best materials to ensure your roof provides lasting protection for your home.",
+        "localContext": "Clearwater's housing stock includes a significant number of 1960s-70s ranch homes, often requiring roofing solutions that address age-related wear and tear. The climate is characterized by hot, humid summers and the potential for hurricanes.",
+        "nearbyAreas": [
+          "Dunedin",
+          "Largo",
+          "Safety Harbor"
+        ]
+      },
+      {
+        "city": "Brandon",
+        "slug": "brandon-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is proud to serve the growing community of Brandon, Florida. Characterized by its suburban developments from the 1980s and 90s, Brandon presents a diverse range of roofing needs. From tile roofs to shingle roofs, we have the expertise to handle any roofing project, big or small.\n\nOur team understands the importance of a reliable roof in protecting your home and family. We offer a full spectrum of roofing services, including repairs, replacements, inspections, and maintenance. We are committed to providing exceptional customer service and ensuring your complete satisfaction. We are committed to delivering high-quality roofing services at competitive prices. ",
+        "localContext": "Brandon's residential areas feature many suburban developments from the 1980s and 90s, with a mix of roofing styles and materials. The hot, humid summers can put a strain on roofing systems.",
+        "nearbyAreas": [
+          "Tampa",
+          "Riverview",
+          "Valrico"
+        ]
+      },
+      {
+        "city": "Wesley Chapel",
+        "slug": "wesley-chapel-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is pleased to offer our roofing services to the rapidly growing community of Wesley Chapel, Florida. Known for its newer master-planned communities built in the 2000s and 2020s, Wesley Chapel features modern homes with contemporary roofing designs. We stay up-to-date with the latest roofing technologies and materials to provide our customers with the best possible solutions.\n\nWe understand that your home is a significant investment, and we are committed to protecting it with a durable and reliable roof. We offer a wide range of roofing services, including new roof installations, repairs, maintenance, and inspections. Our team is dedicated to providing exceptional customer service and exceeding your expectations.",
+        "localContext": "Wesley Chapel is characterized by newer master-planned communities built in the 2000s and 2020s, often featuring modern roofing designs. The hot, humid summers require roofing systems that can withstand extreme temperatures and heavy rainfall.",
+        "nearbyAreas": [
+          "Lutz",
+          "Land O' Lakes",
+          "Zephyrhills"
+        ]
+      },
+      {
+        "city": "Tampa",
+        "slug": "tampa-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is proud to serve the diverse roofing needs of Tampa, Florida. As a major metropolitan area, Tampa features a wide variety of architectural styles and roofing systems. From historic bungalows in Seminole Heights to modern high-rises downtown, we have the expertise to handle any roofing project. We understand the unique challenges of roofing in Tampa, including the intense sun, heavy rainfall, and hurricane season.\n\nOur team is committed to providing Tampa residents with reliable and affordable roofing solutions. We offer a full range of services, including roof repairs, replacements, inspections, and maintenance. We use only the highest quality materials and employ skilled craftsmen to ensure your roof is durable, weather-resistant, and aesthetically pleasing.",
+        "localContext": "Tampa's diverse architecture requires roofing solutions tailored to various styles and materials. The climate is characterized by hot, humid summers, frequent thunderstorms, and the potential for hurricanes.",
+        "nearbyAreas": [
+          "Brandon",
+          "St. Petersburg",
+          "Clearwater"
+        ]
+      },
+      {
+        "city": "Riverview",
+        "slug": "riverview-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is dedicated to providing top-quality roofing services to the residents of Riverview, Florida. As a rapidly growing community, Riverview features a mix of older homes and newer developments. We understand the specific roofing needs of Riverview homeowners, from repairing storm damage to replacing aging roofs.\n\nOur team is committed to providing Riverview residents with reliable and affordable roofing solutions. We offer a comprehensive range of services, including roof repairs, replacements, inspections, and maintenance. We use only the highest quality materials and employ skilled craftsmen to ensure your roof is durable, weather-resistant, and aesthetically pleasing. We are committed to delivering high-quality roofing services at competitive prices.",
+        "localContext": "Riverview is a rapidly growing community with a mix of older and newer homes, requiring a range of roofing services. The hot, humid summers and occasional storms can impact roofing systems.",
+        "nearbyAreas": [
+          "Brandon",
+          "Apollo Beach",
+          "Gibsonton"
+        ]
+      },
+      {
+        "city": "Lutz",
+        "slug": "lutz-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is pleased to offer roofing services to the residents of Lutz, Florida. Known for its semi-rural character and spacious properties, Lutz presents unique roofing considerations. We provide roofing solutions tailored to the specific needs of Lutz homeowners, whether it's a shingle roof on a single-family home or a metal roof on a barn.\n\nOur team is committed to providing Lutz residents with reliable and affordable roofing solutions. We offer a comprehensive range of services, including roof repairs, replacements, inspections, and maintenance. We use only the highest quality materials and employ skilled craftsmen to ensure your roof is durable, weather-resistant, and aesthetically pleasing.",
+        "localContext": "Lutz is known for its semi-rural character and larger properties, often requiring roofing solutions tailored to specific home styles and needs. The climate is characterized by hot, humid summers.",
+        "nearbyAreas": [
+          "Wesley Chapel",
+          "Land O' Lakes",
+          "Odessa"
+        ]
+      },
+      {
+        "city": "Land O' Lakes",
+        "slug": "land-o-lakes-fl",
+        "state": "FL",
+        "content": "SOS Roofing Co is dedicated to serving the roofing needs of Land O' Lakes, Florida. Characterized by its numerous lakes and growing residential communities, Land O' Lakes presents a variety of roofing challenges and opportunities. We are experienced in working with all types of roofing materials and styles, from traditional shingles to modern metal roofs.\n\nOur team is committed to providing Land O' Lakes residents with reliable and affordable roofing solutions. We offer a full range of services, including roof repairs, replacements, inspections, and maintenance. We use only the highest quality materials and employ skilled craftsmen to ensure your roof is durable, weather-resistant, and aesthetically pleasing.",
+        "localContext": "Land O' Lakes is characterized by its numerous lakes and growing residential communities, requiring roofing solutions that can withstand the Florida climate. The area is known for its mix of housing styles and roofing materials.",
+        "nearbyAreas": [
+          "Lutz",
+          "Wesley Chapel",
+          "Odessa"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "SOS Roofing Co was a lifesaver! We had a major leak after a thunderstorm, and they came out within hours to tarp the roof and prevent further damage. The repair was done quickly and professionally. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "After getting several quotes, we chose SOS Roofing Co for our roof replacement. Their price was competitive, but more importantly, they were knowledgeable and trustworthy. The crew was efficient and cleaned up thoroughly. Our new roof looks fantastic!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "We hired SOS Roofing Co for a pre-purchase roof inspection on a home we were considering buying. The inspector was very thorough and identified some potential issues that we were able to address with the seller. Worth every penny!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "I've used SOS Roofing Co for gutter cleaning for the past few years, and they always do a great job. They're reliable, affordable, and leave my property clean. It's a relief knowing my gutters are clear and protecting my home from water damage.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Patricia M.",
+        "rating": 5,
+        "service": "Emergency Roofing",
+        "text": "During Tropical Storm Elsa, a tree branch fell on our roof. SOS Roofing Co responded immediately. They secured the area, preventing further damage and worked with our insurance company seamlessly. Their quick response was incredible!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Flat Roofing",
+        "text": "SOS Roofing Co recently repaired the flat roof on my commercial building. They were professional, efficient, and the price was fair. I appreciated their clear communication throughout the process.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "SOS Roofing Co | Tampa Roofing",
+        "description": "Trusted Tampa roofing contractor. Roof repair, replacement, inspections. Serving Tampa Bay with quality & integrity. Free estimates!"
+      },
+      "about": {
+        "title": "About SOS Roofing Co - Tampa, FL",
+        "description": "Learn about SOS Roofing Co, a Tampa roofing contractor. Our commitment to quality, integrity, and customer satisfaction in Tampa Bay."
+      },
+      "services": {
+        "title": "Tampa Roofing Services | SOS Roofing Co",
+        "description": "Comprehensive roofing services in Tampa. Roof repair, replacement, inspections, gutters, emergency services. Protect your Tampa home."
+      },
+      "contact": {
+        "title": "Contact SOS Roofing Co - Tampa, FL",
+        "description": "Contact SOS Roofing Co for your Tampa roofing needs. Get a free estimate for roof repair, replacement, or inspection. Call us today!"
+      },
+      "reviews": {
+        "title": "SOS Roofing Co Reviews - Tampa, FL",
+        "description": "Read reviews for SOS Roofing Co, a trusted Tampa roofing contractor. See what our customers say about our quality roofing services."
+      },
+      "service-areas": {
+        "title": "SOS Roofing Co Service Areas",
+        "description": "SOS Roofing Co proudly serves the Tampa Bay area. Find out if we serve your city for roofing repair, replacement, and more. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "emergency-roofing": "/images/service-emergency-roofing.webp",
+      "flat-roofing": "/images/service-flat-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roofing": {
+        "src": "/images/service-emergency-roofing.webp",
+        "srcset": "/images/service-emergency-roofing-400w.webp 400w, /images/service-emergency-roofing-800w.webp 800w, /images/service-emergency-roofing-1200w.webp 1200w, /images/service-emergency-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flat-roofing": {
+        "src": "/images/service-flat-roofing.webp",
+        "srcset": "/images/service-flat-roofing-400w.webp 400w, /images/service-flat-roofing-800w.webp 800w, /images/service-flat-roofing-1200w.webp 1200w, /images/service-flat-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
